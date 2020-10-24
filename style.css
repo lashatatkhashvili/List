@@ -1,6 +1,6 @@
 html {
   box-sizing: border-box;
-  background: url("oh-la-la.jpeg") center no-repeat;
+  background: url("https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQSni7dmC8o70Vys2Y7fyxpwuIqMChC1hs3yA&usqp=CAU") center no-repeat;
   background-size: cover;
   min-height: 100vh;
   display: flex;
